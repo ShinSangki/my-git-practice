@@ -1,0 +1,5 @@
+1.작업폴더
+ - git add 파일명 or .
+2.staging area
+ - git commit -m '커밋'
+3.repository (저장소)
