@@ -18,3 +18,9 @@ git log
 
 //비교
 git diff
+
+//브랜치 생성
+git branch 브랜치명명
+
+//브랜치 이동
+git switch 브랜치명
