@@ -1,0 +1,17 @@
+//스테이징
+git add app.txt
+
+//커밋하하기
+git commit -m '수정사항'
+
+//두개의 파일 모두 스테이징
+git add app1.txt app2.txt
+
+//모든 파일 스테이징
+git add .
+
+//상태창: 
+git status
+
+//로그: 
+git log
