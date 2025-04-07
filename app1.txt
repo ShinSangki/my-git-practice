@@ -15,3 +15,6 @@ git status
 
 //로그: 
 git log
+
+//비교
+git diff
